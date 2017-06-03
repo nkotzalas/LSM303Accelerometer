@@ -1,3 +1,3 @@
-LSM303Accelerometer	KEYWORD1
+AccelerometerSensor	KEYWORD1
 setup	KEYWORD2
 calculateOrientation	KEYWORD2
